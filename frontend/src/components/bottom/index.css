@@ -1,9 +1,8 @@
 .copy{
     background-color: #242523;
-        height: 11vh;
+        height: auto;
         width: 101.5%;
-        margin-left: -2vh;
-        margin-top: -2.2vh;
+        margin-top: -1.1%;
 }
 .lxr{
     color: #fedb63;
@@ -11,7 +10,9 @@
 .lxr:hover{
     color: white;
 }
-
+.bac{
+    color: #242523;
+}
 .sen{
     color: rgb(124, 124, 124);
     margin-left: 11%;

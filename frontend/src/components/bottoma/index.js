@@ -141,6 +141,8 @@ history.push("/contact")
       </footer><div className="copy">
      <div className="sen"><br/>
       <p>Copyright 2020 © Ankara Resources Traiding Co. All rights reserved. Powered by <a className="lxr" href="https://www.facebook.com/lxrchoicej/">Luxury Choice</a>.</p>
+      <p className="bac">.</p>
+     
       </div>
       </div>
     </div>
