@@ -1,0 +1,26 @@
+.copy{
+    background-color: #242523;
+        height: 11vh;
+        width: 101.5%;
+        margin-left: -2vh;
+        margin-top: -2.2vh;
+}
+.lxr{
+    color: #fedb63;
+}
+.lxr:hover{
+    color: white;
+}
+
+.sen{
+    color: rgb(124, 124, 124);
+    margin-left: 11%;
+    margin-top: 1%;
+}
+
+.bottom-infoaaea{
+    color: #fedb63;
+}
+.bottom-infoaaea:hover{
+    color: white;
+}

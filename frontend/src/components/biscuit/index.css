@@ -1,0 +1,98 @@
+.ContentPlaceHolder1_DataList2_Panel_imgs2_1 {
+    display: inline-block;
+    width: 10vh;
+    height: 10vh;
+  }
+  .bottomaab{
+    background-color: #323430;
+    margin-top: 355%;
+    height: 30vh;
+    width: 101.5%;
+    margin-left: -2vh;
+}
+.w3-dark-grey, .w3-hover-dark-grey:hover, .w3-dark-gray, .w3-hover-dark-gray:hover{
+    margin-top: auto;
+}
+.pic{
+    height: 29.5vh;
+}
+.quicka{
+    margin-left: 47.2%;
+    margin-top: -26vh;
+    color: white;
+}
+.cona{
+    margin-left:  47.2%;
+    cursor: pointer;
+    color: #fedb63;
+    margin-top: 3vh;
+}
+.cona:hover{
+    color: white;
+}
+.instaa{
+    color: white;
+    margin-left: 80%;
+    margin-top: 5vh;
+    cursor: pointer;
+
+}
+.facebooka{
+    margin-left: 84%;
+    margin-top: -4vh;
+    color: white;
+cursor: pointer;
+}
+.linkedina{
+    margin-left: 88%;
+    margin-top: -4vh;
+    color: white;
+    cursor: pointer;
+
+}
+.twittera{
+    margin-left: 92%;
+    margin-top: -4vh;
+    color: white;
+    cursor: pointer;
+
+}
+.followa{
+    margin-top: -22vh;
+    color: white;
+    margin-left: 83.5%;
+}
+.bottom-infoa{
+    margin-top: -28vh;
+    margin-left: 21%;
+    color: #fedb63;
+}
+.ankaraa{
+    color: white;
+}
+  .grid {
+    padding: 0px 0px 0px 0px;
+    max-width: 100%;
+    margin: 0 auto;
+    list-style: none;
+    text-align: center;
+  }
+  .img {
+    width: 25vh;
+    height: 25vh;
+  }
+  .biss {
+    border: solid rgba(153, 153, 153, 0.192);
+  
+    margin-left: 10%;
+    margin-top: 20vh;
+    float: left;
+    width: 40vh;
+    height: 35vh;
+    cursor: pointer;
+  }
+  .bii {
+    width: 40vh;
+    height: 35vh;
+  }
+  

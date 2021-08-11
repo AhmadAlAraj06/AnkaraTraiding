@@ -1,0 +1,37 @@
+.ContentPlaceHolder1_DataList2_Panel_imgs2_1 {
+  display: inline-block;
+  width: 10vh;
+  height: 10vh;
+}
+.bottomac{
+  background-color: #323430;
+  margin-top: 4%;
+  height: 30vh;
+  width: 101.5%;
+  margin-left: -2vh;
+}
+.grid {
+  padding: 0px 0px 0px 0px;
+  max-width: 100%;
+  margin: 0 auto;
+  list-style: none;
+  text-align: center;
+}
+.img {
+  width: 25vh;
+  height: 25vh;
+}
+.griddd {
+  border: solid rgba(153, 153, 153, 0.192);
+
+  margin-left: 10%;
+  margin-top: 20vh;
+  float: left;
+  width: 40vh;
+  height: 35vh;
+  cursor: pointer;
+}
+.imgaaa {
+  width: 40vh;
+  height: 35vh;
+}

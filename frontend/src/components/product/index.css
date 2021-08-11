@@ -1,0 +1,65 @@
+.ContentPlaceHolder1_DataList2_Panel_imgs2_1{
+    display:inline-block;
+    width: 10vh;
+    height: 10vh;
+
+}
+.grid{
+    padding: 0px 0px 0px 0px;
+    max-width: 100%;
+    margin: 0 auto;
+    list-style: none;
+    text-align: center;
+}
+.img{
+    width: 25vh;
+    height: 25vh;
+}
+.gridd{
+    border: solid rgba(153, 153, 153, 0.192);
+    /* padding: 0px 0px 0px 0px;
+    max-width: 100%;
+    margin: 0 auto;
+    list-style: none;
+    text-align: center; */
+    margin-left: 10% ;
+    margin-top: 20vh;
+    float:left;
+width: 40vh;
+height: 35vh;
+cursor: pointer;
+
+}
+.imgaa{
+    width: 40vh;
+    height: 35vh; 
+    
+}
+.g{
+    width: 20vh;
+    height: 35vh; 
+    background-color: rgba(31, 178, 90, 0.81);
+    position: absolute;
+
+}
+.title{
+    margin-top: -28vh;
+    margin-left: 3vh;
+    color: white;
+    position: absolute;
+}
+.butt{
+    /* margin-top: -20%; */
+/* margin-left: -36vh; */
+margin-top: -10vh;
+margin-left: 3vh;
+position: absolute;
+background-color: #fdc046;
+/* background-color: #646464; */
+padding: 7px 25px;
+border-radius: 5px;
+cursor: pointer;
+}
+.gridd:hover{
+    transform: scale(0.9);
+}
