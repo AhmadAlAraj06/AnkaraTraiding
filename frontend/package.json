@@ -17,7 +17,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2",
-    "homepage": "https://ahmadalaraj06.github.io/AnkaraTraiding"
+    "homepage": "/"
   },
   "scripts": {
     "start": "react-scripts start",
